@@ -1,0 +1,4 @@
+This program has had a PRD document done, but it has not yet been built. This is open to what I decide to build and what program I decide to build it with.
+
+We are up to here.
+_bmad-output\planning-artifacts\prd.md

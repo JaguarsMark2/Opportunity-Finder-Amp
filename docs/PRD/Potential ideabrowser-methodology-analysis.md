@@ -1,4 +1,6 @@
-# Ideabrowser Methodology Analysis
+Apparently, they use 40 different criteria for evaluating their opportunities.
+
+# Potential Ideabrowser Methodology Analysis
 
 ## Overview
 Analysis of Ideabrowser's scoring and evaluation framework to inform Opportunity Finder's implementation.
